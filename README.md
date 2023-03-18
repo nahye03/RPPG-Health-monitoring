@@ -6,6 +6,7 @@
 2. UI
 3. Demo
 4. Code
+5. 성과
 
 ## 1. 주요기술
 ### remote PPG 신호 측정
@@ -43,3 +44,6 @@
 - [get_rgb_funcionts](https://github.com/nahye03/remote-Health-monitoring/blob/main/get_rgb_function.py) : 얼굴 영역에서 R, G, B 성분 추출
 - [monitoring_5.ui](https://github.com/nahye03/remote-Health-monitoring/blob/main/monitoring_5.ui) : 전체 UI
 - [result_dialog.py](https://github.com/nahye03/remote-Health-monitoring/blob/main/result_dialog.py) : 분석 결과창 UI
+
+## 성과
+"Non-contact Bio-marker Monitoring Using Remote Photoplethysmography," 제40회 한국법과학회 추계학술대회, 2021.11.23 ~ 2021.11.30, 온라인.
